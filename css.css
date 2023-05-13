@@ -90,27 +90,25 @@ footer{
 
 
 .table{
-display:table;
-border-collapse:collapse;
-border:3px solid white;
-
+	display: inline-table;
+	border-collapse:collapse;
+	border:3px solid white;
+	
 }
 
 
 .row{
-display :table-row;
+	display :table-row;
 
 }
 
-
-
 .cell{
-display:table-cell;
-padding:4px;
-border: 2px solid white;
-background:#F5F5DC;
-width:100px;
-height:12px;
+	display:table-cell;
+	padding:4px;
+	border: 2px solid white;
+	background:#F5F5DC;
+	width:100px;
+	height:12px;
 
 }
 img{height:10px;width:10px;}
